@@ -1,0 +1,20 @@
+# Environment Variables
+.env
+.env.local
+.env.*
+!.env.example
+
+# Python Virtual Environment
+venv/
+env/
+.venv/
+.python-version
+*.pyc
+__pycache__/
+
+# Node.js
+.env.development
+.env.production
+.env.test
+node_modules/
+.npm
