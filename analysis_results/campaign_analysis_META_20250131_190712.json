@@ -1,0 +1,52 @@
+{
+    "overview": {
+        "total_campaigns": 6,
+        "total_spend": "\u00a3628.26",
+        "total_impressions": 118679,
+        "total_reach": 84489,
+        "average_cpr": "\u00a38.61",
+        "total_results": 139
+    },
+    "campaign_details": {
+        "Android App - Complete Onboarding": {
+            "Results": 1,
+            "Impressions": 3713,
+            "Amount spent (GBP)": 25.7,
+            "Cost per results": 25.7
+        },
+        "Android App Install Broad Audience": {
+            "Results": 46,
+            "Impressions": 37200,
+            "Amount spent (GBP)": 188.42,
+            "Cost per results": 4.09608696
+        },
+        "Android App Install Broad Audience 20/01": {
+            "Results": 19,
+            "Impressions": 15447,
+            "Amount spent (GBP)": 76.07,
+            "Cost per results": 4.00368421
+        },
+        "Ios App Install Broad Audience": {
+            "Results": 49,
+            "Impressions": 37504,
+            "Amount spent (GBP)": 187.48,
+            "Cost per results": 3.82612245
+        },
+        "Ios App Install Broad Audience 20/01": {
+            "Results": 8,
+            "Impressions": 12362,
+            "Amount spent (GBP)": 74.42,
+            "Cost per results": 9.3025
+        },
+        "Lead Gen - New (Broad/Og Aud)": {
+            "Results": 16,
+            "Impressions": 12453,
+            "Amount spent (GBP)": 76.17,
+            "Cost per results": 4.760625
+        }
+    },
+    "date_range": {
+        "start": "2025-01-24",
+        "end": "2025-01-31"
+    }
+}

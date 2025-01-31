@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "pm_brain_collection",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}

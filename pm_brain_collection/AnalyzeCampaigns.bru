@@ -1,0 +1,15 @@
+meta {
+  name: AnalyzeCampaigns
+  type: http
+  seq: 2
+}
+
+post {
+  url: {{LOCAL_HOST}}/api/analyze-campaigns
+  body: multipartForm
+  auth: none
+}
+
+body:multipart-form {
+  file: @file(/Users/ndrdbrv/Desktop/performance-marketing-brain/requirements.txt)
+}
